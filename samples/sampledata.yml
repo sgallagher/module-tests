@@ -1,0 +1,3 @@
+rpms: !mux
+  working:
+    rpmpath: 'samples/fedora-release-25-1.noarch.rpm'
